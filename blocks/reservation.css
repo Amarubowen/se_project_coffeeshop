@@ -1,0 +1,14 @@
+.reservation {
+    background: center/cover #d9e7ff url(../images/background_reservation.svg)
+        no-repeat;
+    padding: 100px 0 120px;
+}
+
+.reservation__title {
+    margin-bottom: 0 0 80px;
+    text-align: center;
+}
+
+.reservation__form {
+    margin: 0 auto;
+}
