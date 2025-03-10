@@ -2,7 +2,7 @@
     width: 540px;
 }
 
-card__titil {
+.card__titil {
     margin: 0 0 32px;
     font-family: "Inter";
     font-weight: bold; 
@@ -21,6 +21,7 @@ card__titil {
 .card__list-item {
 display: flex;
 gap: 10px;
+font-family: "Noto Serif", "Times New Roman", serif;
 font-size: 16px; 
 line-height: 20px;
 }
