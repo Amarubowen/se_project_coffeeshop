@@ -1,5 +1,7 @@
 .header {
+    z-index: 1;
     padding: 30px 80px 40px;
+    box-sizing: border-box;
     background: center / cover no-repeat #fff
         url(../images/background_header.svg);
     position: relative;
@@ -29,6 +31,7 @@
 }
 
 .header__image {
+    z-index: -1;
     position: absolute;
     top: 124px;
     right: 5px;
@@ -45,6 +48,7 @@
 
 .header__paragraph {
     margin: 0;
+    font-weight: 500;
     font-size: 16px;
     line-height: 20px;
     color: #6f6f6f;

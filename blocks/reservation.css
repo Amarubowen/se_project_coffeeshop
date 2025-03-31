@@ -5,8 +5,11 @@
 }
 
 .reservation__title {
-    margin-bottom: 0 0 80px;
+    margin: 0 0 80px;
     text-align: center;
+    font-size: 44px;
+    line-height: 52px;
+    font-weight: 500;
 }
 
 .reservation__form {

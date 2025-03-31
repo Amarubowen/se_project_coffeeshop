@@ -1,10 +1,9 @@
 .about {
-    background: #0a2050;
+    background: #0a2850;
     color: #fff;
     padding: 100px 80px 173px;
     display: flex;
     justify-content: space-between;
-    font-family: "Inter", "arial", "serif";
     position: relative;
     overflow: hidden;
     z-index: 0;
@@ -19,6 +18,7 @@
 }
 
 .about__content {
+    margin-top: 19px;
     max-width: 660px;
     display: flex;
     flex-direction: column;
